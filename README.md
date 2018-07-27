@@ -13,7 +13,7 @@ For a Leaflet 0.4 compatible version, [Download the 0.2 release](https://github.
 
 <!---
 TOC created with gh-md-toc
-https://github.com/ekalinin/github-markdown-toc
+https://msjade.github.io/Leaflet.markercluster/
 removed link to h1 and indented back 2 spaces all links.
 -->
 ## Table of Contents
